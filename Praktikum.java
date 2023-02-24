@@ -1,3 +1,3 @@
 class Praktikum{
-main
+main()
 }
